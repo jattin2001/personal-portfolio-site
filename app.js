@@ -51,7 +51,7 @@ app.post('/', (req, res) => {
     url: 'https://us21.api.mailchimp.com/3.0/lists/069a260cac',
     method: 'POST',
     headers: {
-      Authorization: 'auth 5cc4ff53ffacce46348f52373efa3103-us21'
+      Authorization: 'auth 3e9d1ee77b44d56a39ffd830d1fd1b3e-us21'
     },
     body: postData
   };
